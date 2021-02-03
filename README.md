@@ -20,9 +20,9 @@ Modeller için CRUD (Create, list update, delete) işlemleri yapılacak.
 
 # Modeller
 
-1-Hasta Tablosu: Ad-Soyad, TC (unique), id(primary key), doğum tarihi, hasta kayıt tarihi, telefon numarası
-2-Departman Tablosu: Departman adı, Poliklinik no, buradaki doktorlar, id
-3-Doktorların Tablosu: Ad-Soyad, uzmanlık alanı, bulunduğu departman, id
+* 1-Hasta Tablosu: Ad-Soyad, TC (unique), id(primary key), doğum tarihi, hasta kayıt tarihi, telefon numarası
+* 2-Departman Tablosu: Departman adı, Poliklinik no, buradaki doktorlar, id
+* 3-Doktorların Tablosu: Ad-Soyad, uzmanlık alanı, bulunduğu departman, id
 
 
 
